@@ -9,17 +9,15 @@ related_posts: []
 ---
 Designer Fund is looking for a [Bridge](https://designerfund.com/bridge/programs/) Program Manager who is passionate about design, education and leadership development. If you’re interested in a world where everyone can use good design, [say hello to us here](https://jobs.lever.co/designerfund/765c2b36-852e-434e-8c23-36f0e00f8bef).
 
-# About Designer Fund
+### About Designer Fund
 
 The mission of Designer Fund is to invest in leaders and empower them with design to improve the world. We invest between $350K – $1M in tech startups with founders who value design including Stripe, Gusto, Omada Health, AltSchool, Abstract, Hustle, Framer, Remix and more. With every investment, our goal is to create better designed products and companies in markets that traditionally have poor user experiences like finance, healthcare and enterprise.
 
 To further our mission, we produce professional development programs like [Bridge](https://designerfund.com/bridge/programs/) and [DFG](https://designerfund.com/dfg),  to connect experienced designers from top companies with each other. Through curated workshops, dinners, and talks, we share best practices that accelerate the growth of design leaders.
 
-In the past few years we've produced 8 Bridge programs and now have nearly 200 Alumni who were selected from thousands of applicants. We've hosted over 100 curated events to date, such as [Source](https://designerfund.com/design-leadership-insights-source-summit-2017) and [Women in Design](https://designerfund.com/bridge/10-design-leaders-empower-women-workplace-insights-women-design-2017/). We've also open-sourced resources for designers, like [Level Up](https://designerfund.com/levelup/) and [A Designer's Guide to Working in Tech](https://designerfund.com/bridge/designers-guide-working-tech/), that have reached over a million page views. We want to continue increasing access to our services while keeping a high quality bar—this is why we're looking for a program manager who can help scale our programs and ultimately our impact.
+In the past few years we've produced 8 Bridge programs and now have nearly 200 Alumni who were selected from thousands of applicants. We've hosted over 100 curated events to date, such as [Source](https://designerfund.com/design-leadership-insights-source-summit-2017) and [Women in Design](https://designerfund.com/bridge/10-design-leaders-empower-women-workplace-insights-women-design-2017/). We've also open-sourced resources for designers, like [Level Up](https://designerfund.com/levelup/) and [A Designer's Guide to Working in Tech](https://designerfund.com/bridge/designers-guide-working-tech/), that have reached over a million page views. We want to continue increasing access to our services while keeping a high quality bar—this is why we're looking for a program manager who can help scale our programs and ultimately our impact. 
 
-[![](https://designerfund.com/wp-content/uploads/2018/10/DJI_0022.jpg =2048x1535)](https://designerfund.com/wp-content/uploads/2018/10/DJI_0022.jpg)
-
-# Opportunity
+#### Opportunity
 
 As program manager, you'll play a key role managing the entire Bridge experience and shaping the future of professional design education. You’ll collaborate closely with the rest of the Designer Fund team to deliver world class educational experiences for exceptional designers. This will be a unique and highly rewarding opportunity to be immersed in the heart of the Bay Area’s design in tech community.
 
